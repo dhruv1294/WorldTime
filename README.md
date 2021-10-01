@@ -1,6 +1,6 @@
-# worldtime
+# WorldTime
 
-A new Flutter project.
+A New Flutter project to display time across all time-zones in the world.
 
 ## Getting Started
 
